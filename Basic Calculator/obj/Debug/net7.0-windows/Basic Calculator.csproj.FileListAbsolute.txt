@@ -1,0 +1,16 @@
+C:\Users\laure\source\repos\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.exe
+C:\Users\laure\source\repos\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.deps.json
+C:\Users\laure\source\repos\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.runtimeconfig.json
+C:\Users\laure\source\repos\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.dll
+C:\Users\laure\source\repos\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.pdb
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic_Calculator.Form1.resources
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.AssemblyInfo.cs
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.dll
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\refint\Basic Calculator.dll
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.pdb
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.genruntimeconfig.cache
+C:\Users\laure\source\repos\Basic Calculator\obj\Debug\net7.0-windows\ref\Basic Calculator.dll
